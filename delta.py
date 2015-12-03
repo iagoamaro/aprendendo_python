@@ -1,4 +1,3 @@
-#!/bin/python
 #calculador baskara
 a = int(input("Digite o primeiro termo da equacao: " ))
 b = int(input("Digite o segundo termo da equacao: " ))
@@ -13,7 +12,6 @@ else:
     xdois=(-b - raiz_delta)/2*a
     print("x1 = ",xum,"\nx2 = ",xdois)
 
-    
-         
+input("")             
 
         
